@@ -33,12 +33,12 @@ Supervisor: Dr. Tirthankar Roy Choudhury, NCRA-TIFR</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="text-align: center">
-        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/prof_pic.jpg" alt="" title="" />
+        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/example_2p02_redshift_movie.gif" alt="" title="" />
     </div>                                              
 </div>
 
 <div class="caption" style="text-align: center">
-	Redshift evolution of the IGM
+	The Sky Intensity map, baseline distribution function corresponding to the extent of the field of view of the 
 </div>
 
 
@@ -61,9 +61,7 @@ Network Analysis to identify Climate Correlations - A Case Study using Indian Su
 Supervisor: Dr. Amit Apte, IISER Pune</i>
 
 
-<div class="caption" style="text-align: center">
-    A stochastic individual-based model of resource competition in one dimension where individuals compete according to a continuous version of the logistic equation. An initially monomorphic population evolves to become highly polymorphic over time through repeated evolutionary branching. Written in Julia, using the <a href = "https://github.com/vboussange/EvoId.jl">EvoID</a> package.
-</div>
+
 
 <div style="text-align: justify">
 Climate systems are extremely complex systems which are notoriously difficult to model using simple dynamic systems. They exhibit rich spatio-temporal behaviour such as correlations over large distances, sudden and rapid phase transitions between different states to name a few. Network Science has been very successful in modelling complex interactions between different components of a complex system, and we attempt to perform a network analysis of the rainfall distribution over the Indian subcontinent. The goal is to identify if networks can indeed capture the rich dynamic behaviour of the spatiotemporal distribution of monsoon, and whether this can be used to identify socially and economically important events like the time of onset of Indian monsoon, the duration and the amount of rainfall during this period. We find that network properties are extremely difficult to gather physical evidence from, and they poorly capture the variation in Indian monsoon across different years. We also conclude that it is meaningless to use network analysis on non-discrete objects, and constructing discrete objects such as spatial bins is almost arbitrary and unphysical in network analysis.
