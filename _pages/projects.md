@@ -33,12 +33,12 @@ Supervisor: Dr. Tirthankar Roy Choudhury, NCRA-TIFR</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="text-align: center">
-        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/example_2p02_redshift_movie.gif" alt="" title="" />
+        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/dirty_image.png" alt="" title="" />
     </div>                                              
 </div>
 
 <div class="caption" style="text-align: center">
-	The Sky Intensity map, baseline distribution function corresponding to the extent of the field of view of the 
+	Picture shows the dirty image of the sky (left) as obtained by convolving the baseline distribution function for the SKA Low-1 configuration (bottom right) with the sky image obtained from SCRIPT (top right)
 </div>
 
 
@@ -67,14 +67,32 @@ Supervisor: Dr. Amit Apte, IISER Pune</i>
 Climate systems are extremely complex systems which are notoriously difficult to model using simple dynamic systems. They exhibit rich spatio-temporal behaviour such as correlations over large distances, sudden and rapid phase transitions between different states to name a few. Network Science has been very successful in modelling complex interactions between different components of a complex system, and we attempt to perform a network analysis of the rainfall distribution over the Indian subcontinent. The goal is to identify if networks can indeed capture the rich dynamic behaviour of the spatiotemporal distribution of monsoon, and whether this can be used to identify socially and economically important events like the time of onset of Indian monsoon, the duration and the amount of rainfall during this period. We find that network properties are extremely difficult to gather physical evidence from, and they poorly capture the variation in Indian monsoon across different years. We also conclude that it is meaningless to use network analysis on non-discrete objects, and constructing discrete objects such as spatial bins is almost arbitrary and unphysical in network analysis.
 </div>
 
-<b> <font size="5">  
-Survey of Pulsars detected in the GMRT Southern Sky Survey
-</font>  </b> 
+<br>
 
-<i> Dec 2019 <br>
+<b> <font size='5'>
+Cascade of electrons
+</font> </b>
+
+<i> Sept 2020 - Jan 2021 <br>
+Supervisor: Dr. Diptimoy Ghosh, IISER Pune</i>
+
+<div style="text-align: justify">
+This was done as a semester project at IISER Pune. I worked on picking up the necessary background in cosmology and general relativity. I then implemented a code that could perform the function of simulating the cascade of electrons before the epoch of recombination and its effect on the 
+<div>
+
+<br>
+
+<b> <font size='5'>
+Survey of Pulsars detected in the GMRT Southern Sky Survey
+</font> </b>
+
+<i> Oct 2019 - Dec 2019 <br>
 Supervisor: Dr. Bhaswati Bhattacharyya, NCRA-TIFR</i>
 
 <div style="text-align: justify">
-This was part of my NIUS program
-</div>
+This was done as a part of my NIUS program. The task was to identify pulsars from potential candidates. In order to increase the signal to noise ratio of detected pulsars, we had to "fold" the data, before which mitigation of radio frequency interference had to be performed. The tasks were performed using PRESTO, a program that, among other functions, could fold and be used for RFI mitigation. I wrote a bash script that could cycle through multiple potential candidates and perform folding.
+<div>
+
+
+<br>
 
