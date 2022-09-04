@@ -8,18 +8,31 @@ horizontal: false
 ---
 
 ## <b> Current Projects </b>
+
 <br>
 
 <b> <font size="5">  
-SDSS-MaNGA catalog - Interdependence of Baryonic and Dark Matter in Galaxy Formation and Evolution
+Interdependence of Baryonic and Dark Matter in Galaxy Formation and Evolution using SDSS-MaNGA and DESI Legacy Survey results
 </font>  </b> 
 
 <i> June 2022 - Present <br>
 Supervisor: Dr. Yogesh Wadadekar, NCRA-TIFR</i>
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center">
+        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/size_mass_lam.png" alt="" title="" />
+    </div>                                              
+</div>
+
+<div class="caption" style="text-align: center">
+	The size-mass relationship for a galaxy, coloured by the mean $lambda_{R_e}$ for that bin for the MaNGA galaxy sample. The trend of higher mass galaxies exhibiting more dispersion dominated rotations and lower mass galaxies exhibiting faster rotation hints at evolution histories of populations at these ranges - high mass galaxies are typically ellipticals which formed most of their mass through mergers, whereas low mass galaxies are dominated by spirals which have more disk like structure. Probing relationships between galaxy parameters in higher dimensions will be crucial in developing an understanding of the galaxy-halo connection.
+</div>
+
+
+
 <div style="text-align: justify">
-The formation and evolution of galaxies is strongly driven by secular as well as environmental processes. The effects of these processes have been probed by studying baryonic properties such as luminosity/stellar mass, star formation rate, stellar and gas kinematics, and various proxies for quantifying the environemnt of the galaxy. By studying the distribution of these properties in galaxy populations, one hopes to infer exact formation and evolution scenarios for different morphologies or morphological types of galaxies. While typical studies so far have focused on the correlations of atmost 2-3 parameters and their influence on the process of galaxy formation and evolution, using the latest SDSS-MaNGA galaxy survey, we perform a large scale study to identify the relative prominence of different parameters in deciding formation and evolution scenarios. Since galaxy properties are also theorised to be dependent on the dark matter halo properties, we perform a first-of-its-kind study on the impact of the host halo on the galaxies, hoping to find hints of halo-galaxy connection. 
+The formation and evolution of galaxies is strongly driven by secular as well as environmental processes. The effects of these processes have been probed by studying baryonic properties such as luminosity/stellar mass, star formation rate, stellar and gas kinematics, and various proxies for quantifying the environemnt of the galaxy. By studying the distribution of these properties in galaxy populations, one hopes to infer exact formation and evolution scenarios for different morphologies or morphological types of galaxies. While typical studies so far have focused on the correlations of atmost 2-3 parameters and their influence on the process of galaxy formation and evolution, using the latest SDSS-MaNGA galaxy survey, we perform a large scale study to identify the relative prominence of different parameters in deciding formation and evolution scenarios. Since galaxy properties are also theorised to be dependent on the dark matter halo properties, we perform a first-of-its-kind study on the impact of the host halo on the galaxies, hoping to find hints of halo-galaxy connection.
 </div>
 
 <br>
@@ -60,37 +73,46 @@ Network Analysis to identify Climate Correlations - A Case Study using Indian Su
 <i> Jan 2022 - Apr 2022 <br>
 Supervisor: Dr. Amit Apte, IISER Pune</i>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center">
+        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/climate.svg" alt="" title="" />
+    </div>                                              
+</div>
 
+<div class="caption" style="text-align: center">
+	Picture shows the dirty image of the sky (left) as obtained by convolving the baseline distribution function for the SKA Low-1 configuration (bottom right) with the sky image obtained from SCRIPT (top right)
+</div>
 
 
 <div style="text-align: justify">
 Climate systems are extremely complex systems which are notoriously difficult to model using simple dynamic systems. They exhibit rich spatio-temporal behaviour such as correlations over large distances, sudden and rapid phase transitions between different states to name a few. Network Science has been very successful in modelling complex interactions between different components of a complex system, and we attempt to perform a network analysis of the rainfall distribution over the Indian subcontinent. The goal is to identify if networks can indeed capture the rich dynamic behaviour of the spatiotemporal distribution of monsoon, and whether this can be used to identify socially and economically important events like the time of onset of Indian monsoon, the duration and the amount of rainfall during this period. We find that network properties are extremely difficult to gather physical evidence from, and they poorly capture the variation in Indian monsoon across different years. We also conclude that it is meaningless to use network analysis on non-discrete objects, and constructing discrete objects such as spatial bins is almost arbitrary and unphysical in network analysis.
 </div>
 
-<br>
-
-<b> <font size='5'>
-Cascade of electrons
-</font> </b>
-
-<i> Sept 2020 - Jan 2021 <br>
-Supervisor: Dr. Diptimoy Ghosh, IISER Pune</i>
-
-<div style="text-align: justify">
-This was done as a semester project at IISER Pune. I worked on picking up the necessary background in cosmology and general relativity. I then implemented a code that could perform the function of simulating the cascade of electrons before the epoch of recombination and its effect on the 
-<div>
 
 <br>
 
 <b> <font size='5'>
-Survey of Pulsars detected in the GMRT Southern Sky Survey
+Survey of Pulsars detected in the GMRT High Resolution Southern Sky Survey
 </font> </b>
 
 <i> Oct 2019 - Dec 2019 <br>
 Supervisor: Dr. Bhaswati Bhattacharyya, NCRA-TIFR</i>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center">
+        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/pulsar.png" alt="" title="" />
+    </div>                                              
+</div>
+
+<div class="caption" style="text-align: center">
+	Folded pulsar candidate PSR_1516-43. This is a known pulsar that had been folded with its known time period, purely for visualization
+</div>
+
+
 <div style="text-align: justify">
-This was done as a part of my NIUS program. The task was to identify pulsars from potential candidates. In order to increase the signal to noise ratio of detected pulsars, we had to "fold" the data, before which mitigation of radio frequency interference had to be performed. The tasks were performed using PRESTO, a program that, among other functions, could fold and be used for RFI mitigation. I wrote a bash script that could cycle through multiple potential candidates and perform folding.
+This was done as a part of my NIUS program. The task was to identify pulsars from potential candidates. In order to increase the signal to noise ratio of detected pulsars, we had to "fold" the data, before which mitigation of radio frequency interference had to be performed. The tasks were performed using PRESTO, a program that, among other functions, could fold and be used for RFI mitigation. I wrote a bash script that could cycle through multiple potential candidates and sped up the labour intensive trial and error process required for identifying the ideal RFI mitigation and fold parameters.
+
+I continued related work during the pandemic, investigating the duty cycle distribution of pulsars. I was able to independently recreate the results of an old paper that explained this observed distribution of duty cycles.  
 <div>
 
 
