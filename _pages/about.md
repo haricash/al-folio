@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
-#  address: >
+#  address: 
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently an undergraduate student majoring in physics at IISER Pune. My research interests are in formation and evolution of galaxies and their halo connection, and data science technqiues in astronomy and cosmology. 
 
+One of the key goals of upcoming projects such as the LSST is to detect large samples of galaxies and derive their baryonic and halo properties. Using these catalogs, we hope to identify relationships in multi-dimensional parameter space across redshifts and environments. My research goal is to identify this galaxy-halo connection.
+
 I am also interested in exploring and building statistical techniques for parameter estimation and recovery in astronomy and cosmology. I have worked with Bayesian inference using MCMC and nested sampling, and machine learning, and am currently exploring probabilistic Bayesian neural networks - they're the best of both worlds!
 
-I am working towards my Master's thesis under the guidance of Dr. Yogesh Wadadekar at NCRA-TIFR, where we are using the SDSS-MaNGA spectroscopic data in conjunction with DESI Legacy Survey Data to understand the impact of environmental and secular properties on galaxy evolution.
+I am working towards my Master's thesis under the guidance of Dr. Yogesh Wadadekar at NCRA-TIFR, where we are using the SDSS-MaNGA spectroscopic data in conjunction with DESI Legacy Survey Data to understand the impact of halo, environmental and secular properties on galaxy evolution.
 
 I am also working on a project with Dr. Tirthankar Roy Choudhury to distinguish between different ionizing sources that led to the reionization of the universe. We are trying to infer this information from visibility maps using nested sampling and deep learning techniques.
-
-I am deeply passionate about problems that can be solved using data.
 
 Apart from my academic interests, I enjoy trekking, quizzing and reading history and philosophy. I occasionally jam music and am an outdoorsy person, always seeking thrill and adventure!
 
