@@ -12,7 +12,7 @@ horizontal: false
 <br>
 
 <b> <font size="5">  
-Interdependence of Baryonic and Dark Matter in Galaxy Formation and Evolution using SDSS-MaNGA and DESI Legacy Survey results
+Deep Learning approaches to Galaxy Formation and Evolution with small datasets
 </font>  </b> 
 
 <i> June 2022 - Present <br>
@@ -21,18 +21,18 @@ Supervisor: Dr. Yogesh Wadadekar, NCRA-TIFR</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="text-align: center">
-        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/size_mass_lam.png" alt="" title="" />
+        <img class="img-fluid rounded z-depth-1" width = "700" height = "430" src="/assets/img/siamese.png" alt="" title="" />
     </div>                                              
 </div>
 
 <div class="caption" style="text-align: center">
-	The size-mass relationship for a galaxy, coloured by the mean \(\lambda_{R_e}\) for that bin for the MaNGA galaxy sample. The trend of higher mass galaxies exhibiting more dispersion dominated rotations and lower mass galaxies exhibiting faster rotation hints at evolution histories of populations at these ranges - high mass galaxies are typically ellipticals which formed most of their mass through mergers, whereas low mass galaxies are dominated by spirals which have more stable rotation. Probing relationships between galaxy parameters in higher dimensions will be crucial in developing an understanding of the galaxy-halo connection.
+A <a href='https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf'>Siamese Network</a>, a classical example of an image classifier that is common in few shot learning research (image taken from this <a href='https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/'>webpage</a>). The Siamese network shown here follows a "pairwise" training method, where the loss is evaluated as the difference between the predicted similarity score and the real similarity score (1 if same class, 0 if different). In our study, we use prototypical networks and 
 </div>
 
 
 
 <div style="text-align: justify">
-The formation and evolution of galaxies is strongly driven by secular as well as environmental processes. The effects of these processes have been probed by studying baryonic properties such as luminosity/stellar mass, star formation rate, stellar and gas kinematics, and various proxies for quantifying the environemnt of the galaxy. By studying the distribution of these properties in galaxy populations, one hopes to infer exact formation and evolution scenarios for different morphologies or morphological types of galaxies. While typical studies so far have focused on the correlations of atmost 2-3 parameters and their influence on the process of galaxy formation and evolution such as in <a href='https://arxiv.org/abs/1707.00568'>Bait et. al. (2017)</a> , using the latest SDSS-MaNGA galaxy survey, we perform a large scale study to identify the relative prominence of different parameters in deciding formation and evolution scenarios. A poorly understood area of galaxy formation is the impact of the host halo on the formation processes. Recent studies such as <a href='https://arxiv.org/abs/2205.12999'>Oyarzun et. al. (2022)</a> show how this relation can be probed using existing datasets. We also hope to study relationships between different baryonic and halo properties (as derived from DESI Legacy Survey) in higher dimensional parameter space, hoping to find exciting insights into galaxy-halo connection. This will serve as a precursor to much larger dimensional studies that can be done with data from upcoming projects such as the LSST.
+The formation and evolution of galaxies is strongly driven by secular as well as environmental processes. The effects of these processes have been probed by studying baryonic properties such as luminosity/stellar mass, star formation rate, stellar and gas kinematics, and various proxies for quantifying the environemnt of the galaxy. By studying the distribution of these properties in galaxy populations, one hopes to infer exact formation and evolution scenarios for different morphologies or morphological types of galaxies. While typical studies so far have focused on the correlations of atmost 2-3 parameters and their influence on the process of galaxy formation and evolution such as in <a href='https://arxiv.org/abs/1707.00568'>Bait et. al. (2017)</a> , using the latest SDSS-MaNGA galaxy survey, we perform a large scale study to identify the relative prominence of different parameters in deciding formation and evolution scenarios. There are galaxy populations that exhibit large deviances from the well understood evolution mechanisms, but are less in number. We are also developing a <a href='https://arxiv.org/pdf/2203.04291.pdf'>few shot learning</a> based model that can look through large datasets and identify other instances of rare galaxy types to help us better understand the physics of formation and evolution of these properties.
 </div>
 
 <br>

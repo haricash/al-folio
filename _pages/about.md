@@ -19,15 +19,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am currently an undergraduate student majoring in physics at IISER Pune. My research interests are in formation and evolution of galaxies and their halo connection, and data science and machine learning technqiues in astronomy and cosmology. 
+I am currently an undergraduate student majoring in physics at IISER Pune. My research interests are broadly in data driven astronomy and structure formation in cosmology. My interests also lie in studying human scale systems on the Earth, and am currently learning non-equilibrium statistical mechanics and its applications in biological systems.
 
-One of the key goals of upcoming projects such as the LSST is to detect large samples of galaxies and derive their baryonic and halo properties. Using these catalogs, we hope to identify relationships in multi-dimensional parameter space across redshifts and environments. My research goal is to identify this galaxy-halo connection.
+Most of my time is spent working on my master's thesis under the guidance of <a href='http://www.ncra.tifr.res.in/~yogesh/'>Dr. Yogesh Wadadekar</a> at <a href='http://www.ncra.tifr.res.in/ncra/main'>NCRA-TIFR</a>. Our goal is to identify statistical correlations between galaxy property distributions, as well as identify outlier populations in large datasets. One approach we are taking for identifying outlier populations is <a href='https://blog.paperspace.com/few-shot-learning/'>few shot learning</a>, where we are using pretrained models and a support set of galaxy examples from the known outlier samples to identify more of these in the larger dataset. Currently, we are using prototypical networks for this problem, and are experimenting with <a href='https://machinelearningmastery.com/meta-learning-in-machine-learning/'>meta learning</a> to identify red geyser populations from the MaNGA dataset.
 
-I am also interested in exploring and building statistical techniques for parameter estimation and recovery in astronomy and cosmology. I have worked with Bayesian inference using MCMC and nested sampling, and machine learning, and am currently exploring probabilistic Bayesian neural networks - they're the best of both worlds!
+Another project I am involved in is with <a href='http://www.ncra.tifr.res.in/~tirth/'>Dr. Tirthankar Roy Choudhury</a> to distinguish between different ionizing sources that led to the reionization of the universe. We are trying to infer this information from visibility maps using nested sampling and deep learning techniques.
 
-I am working towards my Master's thesis under the guidance of <a href='http://www.ncra.tifr.res.in/~yogesh/'>Dr. Yogesh Wadadekar</a> at <a href='http://www.ncra.tifr.res.in/ncra/main'>NCRA-TIFR</a>, where we are using the SDSS-MaNGA spectroscopic data in conjunction with DESI Legacy Survey Data to understand the impact of halo, environmental and secular properties on galaxy evolution.
-
-I am also working on a project with <a href='http://www.ncra.tifr.res.in/~tirth/'>Dr. Tirthankar Roy Choudhury</a> to distinguish between different ionizing sources that led to the reionization of the universe. We are trying to infer this information from visibility maps using nested sampling and deep learning techniques.
 
 Apart from my academic interests, I enjoy trekking, quizzing and reading history and philosophy. I occasionally jam music and am an outdoorsy person, always seeking thrill and adventure!
 
