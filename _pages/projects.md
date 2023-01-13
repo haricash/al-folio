@@ -26,7 +26,7 @@ Supervisor: Dr. Yogesh Wadadekar, NCRA-TIFR</i>
 </div>
 
 <div class="caption" style="text-align: center">
-A <a href='https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf'>Siamese Network</a>, a classical example of an image classifier that is common in few shot learning research (image taken from this <a href='https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/'>webpage</a>). The Siamese network shown here follows a "pairwise" training method, where the loss is evaluated as the difference between the predicted similarity score and the real similarity score (1 if same class, 0 if different). In our study, we use prototypical networks and 
+A <a href='https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf'>Siamese Network</a>, a classical example of an image classifier that is common in few shot learning research (image taken from this <a href='https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/'>webpage</a>). The Siamese network shown here follows a "pairwise" training method, where the loss is evaluated as the difference between the predicted similarity score and the real similarity score (1 if same class, 0 if different). In our study, we use prototypical networks and meta learning for building these few shot classifiers.
 </div>
 
 
