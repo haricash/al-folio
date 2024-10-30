@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: BS-MS Student, <a href='https://www.iiserpune.ac.in/'>IISER Pune</a>.
+subtitle: Project Assisstant, <a href='https://www.iiserpune.ac.in/'>TU Wien</a>.
 
 profile:
   align: right
@@ -19,14 +19,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am currently an undergraduate student majoring in physics at IISER Pune. My research interests are broadly in data driven astronomy and structure formation in cosmology. My interests also lie in studying human scale systems on the Earth, and am currently learning non-equilibrium statistical mechanics and its applications in biological systems.
+I am currently a project assistant at the TU Wien, working in the Theory of Living Matter Group. My main research interests are in understanding complex mesoscale systems, from micro-organisms to society using ideas from statistical physics and non-linear dynamics. I will soon start as a PhD student in the same group working on emergent behaviour in the locomotion of ciliated microorganisms.
 
-Most of my time is spent working on my master's thesis under the guidance of <a href='http://www.ncra.tifr.res.in/~yogesh/'>Dr. Yogesh Wadadekar</a> at <a href='http://www.ncra.tifr.res.in/ncra/main'>NCRA-TIFR</a>. Our goal is to identify statistical correlations between galaxy property distributions, as well as identify outlier populations in large datasets. One approach we are taking for identifying outlier populations is <a href='https://blog.paperspace.com/few-shot-learning/'>few shot learning</a>, where we are using pretrained models and a support set of galaxy examples from the known outlier samples to identify more of these in the larger dataset. Currently, we are using prototypical networks for this problem, and are experimenting with <a href='https://machinelearningmastery.com/meta-learning-in-machine-learning/'>meta learning</a> to identify red geyser populations from the MaNGA dataset.
+I spent most of my undergrad worrying about astronomy and astrophysics. I've mentioned some of these projects in my projects page.
 
-Another project I am involved in is with <a href='http://www.ncra.tifr.res.in/~tirth/'>Dr. Tirthankar Roy Choudhury</a> to distinguish between different ionizing sources that led to the reionization of the universe. We are trying to infer this information from visibility maps using nested sampling and deep learning techniques.
-
-
-Apart from my academic interests, I enjoy trekking, quizzing and reading history and philosophy. I occasionally jam music and am an outdoorsy person, always seeking thrill and adventure!
+Apart from my academic interests, I enjoy trekking, climbing, quizzing and reading history and philosophy. I occasionally jam music and am an outdoorsy person, always seeking thrill and adventure!
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
