@@ -15,7 +15,7 @@ horizontal: false
 Deep Learning approaches to Galaxy Formation and Evolution with small datasets
 </font>  </b> 
 
-<i> June 2022 - Present <br>
+<i> June 2022 - May 2023 <br>
 Supervisor: Dr. Yogesh Wadadekar, NCRA-TIFR</i>
 
 
