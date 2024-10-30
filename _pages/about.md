@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Project Assisstant, <a href='https://www.iiserpune.ac.in/'>TU Wien</a>.
+subtitle: Project Assisstant, <a href='https://www.tuwien.ac.at/'>TU Wien</a>.
 
 profile:
   align: right
